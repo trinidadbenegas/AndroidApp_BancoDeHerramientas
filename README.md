@@ -1,8 +1,11 @@
-# AndroidApp_BancoDeHerramientas
-## Descripcion del proyecto
+# Aplicación Móvil Android : Banco de Herramientas Comunitario
+
+## Descripción del proyecto
+
+Este Banco de Herramientas Comunitario móvil permite a los usuarios compartir, prestar y acceder a diversas herramientas y maquinarias a través de una plataforma móvil en Android. Facilita la colaboración comunitaria al optimizar el uso de recursos, reducir el desperdicio, y promover la reutilización de herramientas. La aplicación busca no solo mejorar la eficiencia en proyectos personales y comunitarios, sino también generar un impacto positivo en el medio ambiente al disminuir la necesidad de nuevas adquisiciones y fomentar prácticas sostenibles. Esta dirigida individuos y profesionales que desee colaborar en la gestión eficiente de herramientas y maquinarias, promoviendo la colaboración comunitaria y la sostenibilidad ambiental.
+
 
 ## Tecnologias utilizadas
-
 
 |Tipo de Tecnología|Nombre|Versión|
 |------------------|------|-------|
