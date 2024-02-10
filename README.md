@@ -9,8 +9,9 @@ Este Banco de Herramientas Comunitario móvil permite a los usuarios compartir, 
 [Documento IEEE830 ](IEEE830.pdf)
 
 ## Diseño de interfaz
-Puedes visitar el diseño de interfaz de la app y la naegacion entre pantallas en nuestro proyecto [Figma](https://www.figma.com/file/R1GDtZMxr0nB85DTU1zi3g/AndroidApp--Banco-Herramientas?type=design&node-id=0%3A1&mode=dev&t=SrXP8hujomqp2aZ3-1)
+En este enlace a [Figma](https://www.figma.com/file/R1GDtZMxr0nB85DTU1zi3g/AndroidApp--Banco-Herramientas?type=design&node-id=0%3A1&mode=dev&t=SrXP8hujomqp2aZ3-1), puedes visitar el diseño de interfaz de la app y explorar la navegacion entre pantallas al hacer clic en el botón de Play/Preview en el menú superior izquierdo
 
+![image](https://github.com/trinidadbenegas/AndroidApp_BancoDeHerramientas/assets/107001574/914d0ddb-5f6d-4983-8e06-d69f4370f4c9)
 
 
 
