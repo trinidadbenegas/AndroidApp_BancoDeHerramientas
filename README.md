@@ -19,9 +19,9 @@ En este enlace a [Figma](https://www.figma.com/file/R1GDtZMxr0nB85DTU1zi3g/Andro
 
 |Tipo de Tecnología|Nombre|Versión|
 |------------------|------|-------|
-| IDE |[![Android Studio Badge](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/studio)| |
+| IDE |[![Android Studio Badge](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/studio)|Hedgehog 2023.1.1 |
 | Base de Datos |[![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)| s/n |
-| Lenguaje |[![Java Badge](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)| s/n |
+| Lenguaje |[![Java Badge](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)| 8 |
 | UML |[![Miro Badge](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white)](https://miro.com/)| s/n |
 
 
