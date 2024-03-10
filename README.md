@@ -8,14 +8,20 @@ Este Banco de Herramientas Comunitario móvil permite a los usuarios compartir, 
 
 [Documento IEEE830 ](IEEE830.pdf)
 
+## Diseño de interfaz
+En este enlace a [Figma](https://www.figma.com/file/R1GDtZMxr0nB85DTU1zi3g/AndroidApp--Banco-Herramientas?type=design&node-id=0%3A1&mode=dev&t=SrXP8hujomqp2aZ3-1), puedes visitar el diseño de interfaz de la app y explorar la navegacion entre pantallas al hacer clic en el botón de Play/Preview en el menú superior izquierdo
+
+![image](https://github.com/trinidadbenegas/AndroidApp_BancoDeHerramientas/assets/107001574/914d0ddb-5f6d-4983-8e06-d69f4370f4c9)
+
+
 
 ## Tecnologias utilizadas
 
 |Tipo de Tecnología|Nombre|Versión|
 |------------------|------|-------|
-| IDE |[![Android Studio Badge](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/studio)| |
+| IDE |[![Android Studio Badge](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/studio)|Hedgehog 2023.1.1 |
 | Base de Datos |[![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)| s/n |
-| Lenguaje |[![Java Badge](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)| s/n |
+| Lenguaje |[![Java Badge](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)| 8 |
 | UML |[![Miro Badge](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white)](https://miro.com/)| s/n |
 
 
