@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="com_auth0_domain">dev-4s31x37mr25z85t0.us.auth0.com</string>
+    <string name="com_auth0_client_id">B6AEr2OP9rH5VzVI9qT0hlUkyy0NlF5B</string>
+    <string name="continuar">Continuar</string>
+    <string name="nete_a_nuestra_comunidad">¡Únete a nuestra comunidad!</string>
+    <string name="iniciar_sesion">Iniciar sesion</string>
+    <string name="foto_principal_de_la_app">foto principal de la app</string>
+    <string name="te_damos_la_bienvenida">¡Te damos la bienvenida!</string>
+    <string name="appintro">¡Únete al Banco de Herramientas Comunitario móvil! Accede a diversas herramientas y maquinaria desde tu teléfono, promoviendo la colaboración y la sostenibilidad. Simplifica la vida, optimiza recursos y reduce desperdicios. ¡Haz una diferencia compartiendo y prestando herramientas hoy mismo!</string>
+    <string name="btndescrip">Botón para agregar nueva herramienta</string>
+    <string name="cerrarsesion">Cerrar sesión</string>
+</resources>
